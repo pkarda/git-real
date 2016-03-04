@@ -1,2 +1,1 @@
-test2
-the cake is a lie
+This is a test README
